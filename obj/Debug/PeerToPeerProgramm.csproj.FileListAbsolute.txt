@@ -1,0 +1,10 @@
+D:\VS Projects\PeerToPeerProgramm\bin\Debug\PeerToPeerProgramm.exe.config
+D:\VS Projects\PeerToPeerProgramm\bin\Debug\PeerToPeerProgramm.exe
+D:\VS Projects\PeerToPeerProgramm\bin\Debug\PeerToPeerProgramm.pdb
+D:\VS Projects\PeerToPeerProgramm\obj\Debug\PeerToPeerProgramm.csproj.AssemblyReference.cache
+D:\VS Projects\PeerToPeerProgramm\obj\Debug\PeerToPeerProgramm.csproj.CoreCompileInputs.cache
+D:\VS Projects\PeerToPeerProgramm\obj\Debug\PeerToPeerProgramm.exe
+D:\VS Projects\PeerToPeerProgramm\obj\Debug\PeerToPeerProgramm.pdb
+D:\VS Projects\PeerToPeerProgramm\bin\Debug\Microsoft.MixedReality.WebRTC.dll
+D:\VS Projects\PeerToPeerProgramm\bin\Debug\Microsoft.MixedReality.WebRTC.xml
+D:\VS Projects\PeerToPeerProgramm\obj\Debug\PeerToPeerProgramm.csproj.CopyComplete
